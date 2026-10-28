@@ -1,0 +1,6 @@
+{
+  "name": "Shashwat Multi-Speciality Hospital",
+  "description": "Premier multi-speciality hospital in Ahilyanagar (Ahmednagar) offering 24x7 emergency & trauma care, ICU, modular operation theatres, dialysis, maternity, and advanced diagnostic facilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
